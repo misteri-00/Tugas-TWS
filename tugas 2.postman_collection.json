@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "6d4bbafc-9b3c-42ec-b54c-8c06169b5654",
+		"name": "tugas 2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "51350803",
+		"_collection_link": "https://sekolahonline55-2524915.postman.co/workspace/Adi-Kurniawan's-Workspace~3c49f0b0-1407-4515-8db7-0b48a9c81a73/collection/51350803-6d4bbafc-9b3c-42ec-b54c-8c06169b5654?action=share&source=collection_link&creator=51350803"
+	},
+	"item": [
+		{
+			"name": "ambil data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post data",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "hapus data",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "taruh data",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
